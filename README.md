@@ -1,4 +1,4 @@
-# 🗣️ VoiceCraft – AI-Powered Sign Language Translator
+#  VoiceCraft – AI-Powered Sign Language Translator
 
 VoiceCraft is a Flutter-based accessibility application that enables real-time **gesture-to-text translation** to bridge communication gaps between sign language users and non-signers. The application leverages computer vision and AI to translate sign language gestures into readable text with near real-time feedback.
 
