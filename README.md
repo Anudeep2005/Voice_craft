@@ -60,8 +60,8 @@ The application processes camera frames in real time, sends relevant gesture dat
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-2.Navigate to the project directory.
-3.Install Dependencies.
-4.Configure API Keys.
-5.Run the application.
+   git clone <repository-url> <br/>
+2.Navigate to the project directory. <br/>
+3.Install Dependencies. <br/>
+4.Configure API Keys. <br/>
+5.Run the application. 
